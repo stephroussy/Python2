@@ -1,0 +1,21 @@
+Burrito|24.56|20.00|0|a
+Chicken Nuggets|21.56|18.53|0|b
+Chicken Breasts|24.0|20.00|0|c
+Cheese Burger|20.34|15.55|0|d
+Chef's Salad|11.91|8.00|0|e
+Poutine|23.48|19.89|0|f
+Eggrolls|18.93|13.29|0|g
+Pizza|23.46|17.68|0|h
+Donuts|12.03|6.09|0|I
+Spaghetti|16.93|12.37|0|j
+Tacos|24.85|20.87|0|k
+French Fries|7.03|5.77|0|l
+Sandwich|25.73|21.43|1|m
+Caesar salad|15.06|10.00|0|n
+Steak|30.55|24.50|0|o
+Fish|21.55|16.98|1|p
+Garlic Bread|5.06|3.59|0|q
+Nachos|8.03|4.00|0|r
+Meatloaf|22.03|17.89|0|s
+Cheddar Balls |23.03|20.00|1|t
+Kabobs |18.99|20.99|1|u
